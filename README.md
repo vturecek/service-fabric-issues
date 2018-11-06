@@ -14,6 +14,9 @@ We're in the process of moving issue tracking from this issues-only repo over to
 | Service Fabric CLI      |  [service-fabric-cli](https://github.com/Microsoft/service-fabric-cli)       |
 | Service Fabric Explorer      |  [service-fabric-services-and-actors-dotnet](https://github.com/Microsoft/service-fabric-explorer)       |
 
+## Urgent?
+
+If you are using an official build or hosting a cluster in Azure, please see the available [support options](https://docs.microsoft.com/azure/service-fabric/service-fabric-support) to get help quickly.
 
 
 ## General how-to and documentation issues
@@ -22,16 +25,8 @@ We are also actively monitoring the following forums and recommend that you use 
 
 ### StackOverflow
 
-The [Service Fabric tag on StackOverflow][stackoverflow-tag] is the best place for questions about how the platform works and how you might accomplish certain tasks with it.
+The [Service Fabric tag on StackOverflow][http://stackoverflow.com/questions/tagged/azure-service-fabric] is the best place for questions about how the platform works and how you might accomplish certain tasks with it.
 
 ### Microsoft Docs conceptual documentation
 
-The comment threads on the [Service Fabric conceptual documentation][acom-docs] are the right place to report errors in the documentation itself or to report issues that occurred while following along with a given article. If the issue you're encountering turns out to be a product bug, we will transfer it to the issues list in this repo and link to it in the Disqus thread.
-
-<!-- Links -->
-
-[msdn-forum]: https://social.msdn.microsoft.com/Forums/en-US/home?forum=AzureServiceFabric
-[stackoverflow-tag]: http://stackoverflow.com/questions/tagged/azure-service-fabric
-[uservoice-forum]: https://feedback.azure.com/forums/293901-service-fabric
-[acom-docs]: http://aka.ms/servicefabricdocs
-[sample-repos]: http://aka.ms/servicefabricsamples
+The comment threads on the [Service Fabric conceptual documentation][http://aka.ms/servicefabricdocs] are the right place to report errors in the documentation itself or to report issues that occurred while following along with a given article. If the issue you're encountering turns out to be a product bug, we will transfer it to the issues list in this repo and link to it in the comment thread.
